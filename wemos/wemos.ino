@@ -27,7 +27,7 @@ Switch *office = NULL;
 Switch *kitchen = NULL;
 
 bool isOfficeLightsOn = false;
-bool isKitchenLightstsOn = false;
+bool isKitchenLightsOn = false;
 
 void setup()
 {
